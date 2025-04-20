@@ -22,6 +22,6 @@ Run the .ipynb files. These files were originally run in a Google Colab environm
 
 
 ### Author
-Mackenzie Snyder
-3rd Year Biomedical Engineering @ University of Waterloo
+Mackenzie Snyder  
+3rd Year Biomedical Engineering @ University of Waterloo  
 Focus: Machine Learning, Computer Vision, Neurotechnology, Sports Engineering
